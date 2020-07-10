@@ -69,3 +69,26 @@ REFERENCE COLORS
 #1C6E7D drkaqua                 |
 #1B3D2F drkaqua2                |
 --              >
+<!--Colors chosen for project 
+#FCFAE8 whiteSub01
+#DDD3D3 lightMain
+#B9ABB1 midMain
+#908794 middle2Main
+#BB5B3E studyBrwn
+#C3A689 ligLeatherBrw
+#947046 ltLeatherBrwn
+#616678 lightMain
+#2F4858 darkMain
+#F9F871 dangeryllw
+#FF92A7 sftPink
+#FF8CF6 bubgumPink
+#F88F6F neoCoral
+#00FFF5 light blue
+#9BDE7E ltGrn
+#C3A689 
+#363E00 drkGrn
+#4BBC8E ltAqua
+#039590 midAqua
+#1C6E7D drkaqua
+#1B3D2F drkaqua2
+-->
